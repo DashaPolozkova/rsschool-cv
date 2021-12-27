@@ -1,3 +1,136 @@
-html{
-    
+html {
+    scroll-behavior: smooth; 
+  }
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4d2323;
+}
+header, footer {
+  background: rgb(194, 165, 132);
+  height: 10vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+ }
+ .main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 18px;
+    color:#a1480c;;
+    transition: .3s;
+  }
+  .section {
+  width: calc(50% - 20px);
+  position: relative;
+  padding: 10px;
+}
+.section::after{
+  content: "";
+  margin-top: 15px;
+  display: block;
+      border-bottom: 2px solid rgb(209, 158, 99);
+}
+
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 50px 30px 35px;
+  border-bottom: 11px solid #ebe1d1;
+}
+.section-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #a1480c;
+}
+ @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  .link {
+    text-decoration: none;
+    color: #e79f03;
+    transition: color 0.5s;
+  }
+  .link:hover {
+    color: #5d7260;
+  }
+  .item {
+    position: relative;
+    margin: 0;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    list-style: none;
+  }
+    .item::before {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 10px;
+    height: 10px; 
+    border: 1px solid #e69451;
+    border-radius: 50%;
+  }
+ 
+  h2 {
+    position: relative;
+    display: inline-block;
+   }
+   h2::after {
+    content: ""; 
+    position: absolute; 
+    background: rgb(201, 95, 8);
+    left: 0; 
+    bottom: -5px; 
+    width: 100%; 
+    height: 2px; 
+   }
+   .contacts {
+     text-decoration: none;
+     color: #050805;
+     transition: color 0.5s;
+   }
+   .contacts:hover {
+     color: #093d11;
+   }
+  .container-footer {
+  display: flex;  
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  }
+.year {
+  padding: 20px;
+}
+.section-list {
+list-style: none;
 }
