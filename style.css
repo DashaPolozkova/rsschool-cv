@@ -47,12 +47,10 @@ header, footer {
   width: calc(50% - 20px);
   position: relative;
   padding: 10px;
+  border-bottom: 2px solid rgb(209, 158, 99);;
 }
-.section::after{
-  content: "";
-  margin-top: 15px;
-  display: block;
-      border-bottom: 2px solid rgb(209, 158, 99);
+.section-education, .section-english {
+  border-bottom: none;
 }
 
 .section-profile {
@@ -81,7 +79,7 @@ header, footer {
     transition: color 0.5s;
   }
   .link:hover {
-    color: #5d7260;
+    color: #5a3606;
   }
   .item {
     position: relative;
@@ -116,11 +114,12 @@ header, footer {
    }
    .contacts {
      text-decoration: none;
-     color: #050805;
-     transition: color 0.5s;
+    color: #e79f03;
+      transition: color 0.5s;
    }
    .contacts:hover {
-     color: #093d11;
+    color: #5a3606;
+
    }
   .container-footer {
   display: flex;  
