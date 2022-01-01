@@ -49,7 +49,7 @@ header, footer {
   padding: 10px;
   border-bottom: 2px solid rgb(209, 158, 99);;
 }
-.section-education, .section-english {
+ .section-english {
   border-bottom: none;
 }
 
@@ -85,18 +85,19 @@ header, footer {
     position: relative;
     margin: 0;
     margin-bottom: 5px;
+    padding-top: -5px;
     padding-left: 20px;
     list-style: none;
   }
     .item::before {
     content: "";
     position: absolute;
-    top: 3px;
+    top: 8px;
     left: 0px;
-    width: 10px;
-    height: 10px; 
+    width: 8px;
+    height: 8px; 
     border: 1px solid #e69451;
-    border-radius: 50%;
+    border-radius: 75%;
   }
  
   h2 {
@@ -118,7 +119,7 @@ header, footer {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  }
+    }
 .year {
   padding: 20px;
 }
