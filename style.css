@@ -49,7 +49,7 @@ header, footer {
   padding: 10px;
   border-bottom: 2px solid rgb(209, 158, 99);;
 }
- .section-english {
+ .section-english, .section-education{
   border-bottom: none;
 }
 
