@@ -4,7 +4,7 @@
 
 ## Contacts
 * Phone: +375 29 111-26-10
-* E-mail: dasha.priemko@gmail.com
+* E-mail: dasha.priemko@gmail.com, dasha.priemko@mail.ru
 * GitHub: DashaPolozkova
 * Telegram: dasha_polozkova
 
