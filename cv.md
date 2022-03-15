@@ -36,8 +36,9 @@
 ## Courses
 
 * HTML and CSS on code-basics.com (completed)
-* JavaScript Manual on learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
+* RS Schools Course «JavaScript/Front-end. 2022Q1, Stage 1» (in progress)
+* JavaScript Manual on learnjavascript.ru (in progress)
 
 ## Languages
 
