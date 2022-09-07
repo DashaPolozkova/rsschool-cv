@@ -10,7 +10,7 @@
 
 ## About me
  I am 26 years old. I graduated BSU (Chemiсal Faculty) and BSEU (Master's Degree in economics).  I worked in the Ministry of antimonopoly regulation and trade, and now I'm on maternity leave.
- I am not satisfied with my life now and I want to change this. I completed RS Schools Course «JavaScript/Front-end. Stage 0»  and started stage 1 in the beggining of 2022? but didn't finished, and now I am trying to take it again, havemore time to learn and practice Javascript.
+ I am not satisfied with my life now and I want to change this. I completed RS Schools Course «JavaScript/Front-end. Stage 0»  and started stage 1 in the beggining of 2022, but didn't finished, and now I am trying to take it again, havemore time to learn and practice Javascript.
  In my mind, self-discipline and practice is the key to success.
  My goal is to be a front-end developer when I graduate RS Schools Course «JavaScript/Front-end. 2022Q3».
 
