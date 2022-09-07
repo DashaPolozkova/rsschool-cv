@@ -20,7 +20,7 @@
   - Responsibility
   - Team playing
 
-> Don't stop there
+> If you want to get what you never had, become what you never were (Brian Tracy).
 
 ## Code Examples
 **Kata from Codewars**: The task is to create the function isDivideBy (or is_divide_by) to check if an integer number is divisible by both integers a and b.
@@ -39,7 +39,7 @@
 
 * HTML and CSS on code-basics.com (completed)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
-* RS Schools Course «JavaScript/Front-end. 2022Q1, Stage 1» (in progress)
+* RS Schools Course «JavaScript/Front-end. 2022Q3, Stage 1» (in progress)
 * JavaScript Manual on learnjavascript.ru (in progress)
 
 ## Languages
