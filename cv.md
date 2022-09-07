@@ -42,4 +42,4 @@
 ## Languages
 
 * Russian - Native
-* English - Pre-intermediate/Intermediate
+* English - Pre-intermediate
